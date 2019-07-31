@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-repo/config-server-repo.iml" filepath="$PROJECT_DIR$/config-server-repo/config-server-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-boisson/micro-boisson.iml" filepath="$PROJECT_DIR$/micro-boisson/micro-boisson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-plat/micro-plat.iml" filepath="$PROJECT_DIR$/micro-plat/micro-plat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/zuul-server/zuul-server.iml" />
+    </modules>
+  </component>
+</project>
